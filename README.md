@@ -1,1 +1,0 @@
-# step-by-step-guide-to-writing-commit-messages
